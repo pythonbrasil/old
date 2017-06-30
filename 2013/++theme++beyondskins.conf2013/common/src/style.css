@@ -1,0 +1,409 @@
+/*********************************************************
+beyondskins.ploneconf.site - Theme for Ploneconf 2013
+Simples Consultoria - www.simplesconsultoria.com.br
+*********************************************************/
+
+/* reset */
+* {margin:0; padding:0; list-style:none; vertical-align:baseline;}
+
+/****************** Basic Stuff ******************/
+
+
+
+/* Colors and fonts */
+body {
+    background: #fff ;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%; /* with this 1em = 10px */
+}
+a:link,
+#content a:link,
+dl.portlet a:link {
+    color:#000;
+}
+a:visited,
+#content a:visited,
+dl.portlet a:visited {
+    color: #000;
+}
+#content a:hover,
+dl.portlet a:hover {
+    color: #000 !important;
+}
+.state-published {
+    color:#000 !important;
+}
+h1, h2 {
+   color: #286fb2;
+}
+h3 {
+    color: #336600;
+}
+
+h1, h2, h3 {
+    margin: 0.5em 0 0.5em;
+}
+p {
+    line-height: 1.8em;
+    margin: 0 0 1em 0;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 100%;
+    font-size: 1.2em;
+}
+#main {
+    background:transparent;
+    font-size: 1.3em;
+    padding: 2em;
+}
+div.position-0 {
+    margin-left: -100%;
+}
+
+
+/****************** HEADER ******************/
+
+#header {
+    background-color: #fff;
+}
+
+/* logo */
+#logo {
+    text-align: center;
+}
+#logo img {
+    max-width:100%;
+}
+#logo a {
+    width:100%;
+    text-align: center;
+}
+
+.header-photos,
+#header-text {
+    width: 16.6%;
+    float: left;
+    margin-bottom: 0.2%;
+}
+
+.header-home .header-photos,
+#header-text {
+    width: 33.2%;
+    float: left;
+    margin-bottom: 0.2%;
+}
+
+.header-home #photo01,
+.header-home #photo04 {
+    margin-right: 0.2%;
+    margin-left: 0.2%;
+}
+
+.header-site #photo01,
+.header-site #photo03 {
+margin-right: 0.2%;
+}
+.header-site #header-text {
+    float: right;
+}
+
+.header-photos img,
+#header-text img {
+    width: 100%;
+}
+
+/* Personal tools */
+#portal-personaltools {
+    font-size: 1.2em;
+    background: #336699;
+    position: absolute;
+}
+#portal-personaltools dd {
+    background: #336699;
+}
+#portal-personaltools a {
+    color: #fff;
+}
+
+
+/* Main navigation */
+#portal-globalnav {
+    margin: 0;
+}
+#nav {
+    background: #0079b9;
+    border-bottom: 1px solid #238dc3;
+    clear: left;
+    text-align: center;
+}
+#nav ul {
+    background: #0079b9;
+    color: #fff;
+    font-size: 1.6em;
+    border-bottom: 1px solid #0079b9;
+}
+#nav a {
+    color: #fff !important;
+    padding: 0.5em 1em !important;
+    text-decoration: none;
+    min-width: 3em;
+    display: inline-block;
+    background: transparent !important;
+}
+#nav a:hover,
+#nav li.selected a {
+    background: #0073B4 !important;
+    color: #fff !important;
+}
+
+#portaltab-registration {
+    float: right;
+}
+#portaltab-registration a {
+    background: #336600;
+}
+
+
+/****************** CONTENT ******************/
+
+
+.section-front-page h1.documentFirstHeading,
+.section-front-page #portal-breadcrumbs {
+    display: none;
+}
+
+div.overlay li {
+    display: list-item;
+    line-height: 1.5em;
+    list-style: square outside none;
+    margin-bottom: 0.25em;
+    margin-left: 2em;
+}
+
+/****************** SPONSORS ******************/
+
+
+/* Text styles */
+
+.hidden {
+    display: none;
+}
+.clear {
+    clear: both;
+}
+
+.pb-ajax, .pb-image, .overlay iframe {
+    font-size: 1.4em;
+}
+.portlet img, #content img {
+    max-width:100%;
+}
+
+/* lists */
+#content li, dl.portlet li {
+    display: list-item;
+    line-height: 1.5em;
+    list-style: square outside;
+    margin-bottom: 0.25em;
+}
+#content ol li, dl.portlet ol li {
+    list-style: decimal outside;
+}
+dl.portlet ul.navTreeLevel0 > .navTreeItem {
+    list-style: none;
+}
+
+/****************** PORTLETS ********************/
+
+
+dl.portlet ul.navTreeLevel0 > .navTreeItem {
+    border-bottom: 1px solid #ccc;
+    font-size: 1.3em;
+}
+
+dl.portlet ul.navTree li a {
+    color: #0079b9 !important;
+}
+
+select {
+    max-width: 100%;
+}
+
+/****************** FOOTER ******************/
+
+/* patrocinadores */
+#patrocinadores {
+    padding: 20px 40px;
+    background: #fff;
+}
+#patrocinadores dt {
+    border-bottom: 1px solid #F1F1F1;
+    color: #CCCCCC;
+    margin: 20px 0 10px;
+}
+#patrocinadores dd a img{
+    vertical-align:middle;
+    margin: 1em 2em;
+}
+
+
+#footer {
+    background: #0079b9;
+    color: #eaffff;
+    clear: left;
+    padding: 2em;
+}
+#footer a:link {
+    color:#eaffff;
+}
+#footer a:visited {
+    color:#eaffff;
+}
+#footer a:hover {
+    color: #fff !important;
+}
+#social {
+    width: 70%;
+    float: right;
+    text-align: right;
+}
+
+#footer-logo {
+    width: 30%;
+}
+#footer-logo img {
+    width: 100%;
+}
+
+#footer-nav {
+    width: 70%;
+    float: right;
+    clear: right;
+    text-align: right;
+    margin-top: 9em;
+}
+
+#footer li {
+    float: none;
+    padding: 1em;
+}
+#footer li a {
+    background: transparent;
+}
+
+
+/****************** RESPONSIVE DESIGN MAGIC ******************/
+
+#searchbt, #nav #seletor {display:none;}
+#nav #seletor {color: #fff;}
+
+@media screen and (max-width: 768px) {
+
+    #wrapper {max-width: 100%;}
+    #logo {width: 49%;}
+    .header-photos, #header-text {
+    width: 49%;
+    float: left;
+    margin-bottom: 0.2%;
+    }
+    #footer-logo, #footer-nav, #photo02, #photo03 {
+        display: none;
+    }
+
+    /*Columns*/
+    #portal-column-one,
+    #portal-column-two,
+    #portal-column-content {clear: both; width: 97.75%; margin-left: -98.875%;}
+
+    /*Search*/
+    #portal-searchbox  {display:none;}
+
+    /*Global navigation*/
+    #nav {padding:0;width:100%;
+    }
+
+    #searchbt {display:block; float:right;width:14%;clear: left;}
+
+    #searchbt a {
+        display:block;
+        text-indent: -900000px;
+        padding: 1em;
+        margin-top: 4%;
+        background:transparent url(http://2013.pythonbrasil.org.br/++theme++beyondskins.conf2013/common/src/search-ico.png) no-repeat center center;
+    }
+
+    #nav #seletor {
+        display:block;
+        padding: 1em 1em 1em 2.5em;
+        width:80%;
+        background:url(http://2013.pythonbrasil.org.br/++theme++beyondskins.conf2013/common/src/sections-ico.png) no-repeat 1em;
+     }
+
+    #nav li {display: none;}
+
+    #nav:hover li {
+        display: block;
+        width:100%;
+        border-top:1px solid #fff;
+        display:block !important;
+        padding:0;
+    }
+
+    #nav ul {
+        width:97.5%;
+        margin:0;
+        padding:0;
+    }
+
+    #nav:hover li a {
+        color: #fff;;
+        width:100%;
+        padding:0 2.5%;
+        line-height: 3em;
+        display: block;
+        width: 95% !important;
+    }
+
+    #nav:hover li:hover {background: #254A6E;}
+    #nav:hover li a:hover,
+    #nav:hover li.selected a {background: transparent;}
+
+    .overlay.overlay-ajax {top: 10px !important;}
+    .overlay.overlay-ajax input.searchPage {
+        font-size: 200% !important;
+        width: 90%;
+        margin-bottom:1em;
+    }
+    .overlay.overlay-ajax input.searchPage.searchButton {width:auto;}
+    .overlay.overlay-ajax #searchform .discreet {text-align:left;}
+    .overlay.overlay-ajax #content-core strong {display:none;}
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+    #portal-breadcrumbs {display:none;}
+
+    #nav ul {font-size: 1em;}
+
+    #portal-searchbox {
+        float: none;
+        width:80%;
+        clear:both;
+        margin: 0 auto 2%;
+    }
+
+    #logo {
+        float: none;
+        width: 100%;
+    }
+
+    .header-photos,
+    #header-text {
+        display: none;
+    }
+
+}

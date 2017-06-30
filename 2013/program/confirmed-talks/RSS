@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://2013.pythonbrasil.org.br/program/confirmed-talks/RSS">
+  <title>All Conference Talks</title>
+  <link>http://2013.pythonbrasil.org.br</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2013-07-10T13:14:22Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://2013.pythonbrasil.org.br/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/web_wevelopment/tornado-mongodb-nginxpushstream-newsfeed-no-cartolafc"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pc/plone_integrators/50-shades-of-plone"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pc/plone_ui/adding-interactive-javascript-functionality-to-plone"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/scipy/aprendendo-bioinformatica-com-rosalind"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/other/audiolazy"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/keynotes/big-data"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/django/boas-praticas-de-django"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/django/campos-dinamicos-sem-nosql"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pc/plone_cases/case-study-plone-and-the-uk-national-health-service"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/community_education/classic-games-with-python-in-the-browser"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pc/plone_addons/collective-cover-one-year-later"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pc/plone_gov/como-o-plone-domina-os-servicos-web-dos-correios-com-br-utilizando-diazo"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/scipy/como-o-scielo-esta-se-preparando-para-disponibilizar-seus-metadados-para-pesquisadores-e-curiosos"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/python-core/compatibilidade-entre-python-2-e-3"/>
+      
+      
+        <rdf:li rdf:resource="http://2013.pythonbrasil.org.br/program/pb/scipy/construassapso-de-uma-ferramenta-online-para-determinaassapso-de-linhas-de-influaancia"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/web_wevelopment/tornado-mongodb-nginxpushstream-newsfeed-no-cartolafc">
+    <title>(Tornado + MongoDB) + NginxPushStream = Newsfeed no CartolaFC</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/web_wevelopment/tornado-mongodb-nginxpushstream-newsfeed-no-cartolafc</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Alexandre Saboia Fuziyama</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T04:41:18Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pc/plone_integrators/50-shades-of-plone">
+    <title>50 shades of Plone: the beginning</title>
+    <link>http://2013.pythonbrasil.org.br/program/pc/plone_integrators/50-shades-of-plone</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Paul Roeland</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:29:38Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pc/plone_ui/adding-interactive-javascript-functionality-to-plone">
+    <title>Adding interactive javascript functionality to Plone</title>
+    <link>http://2013.pythonbrasil.org.br/program/pc/plone_ui/adding-interactive-javascript-functionality-to-plone</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Alan Runyan</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:26:57Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/scipy/aprendendo-bioinformatica-com-rosalind">
+    <title>Aprendendo bioinformática com Rosalind</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/scipy/aprendendo-bioinformatica-com-rosalind</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Luiz Irber</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T05:18:03Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/other/audiolazy">
+    <title>AudioLazy, processamento de sinais para música, jogos e muito mais!</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/other/audiolazy</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Tania Andrea</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-10-03T06:15:00Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/keynotes/big-data">
+    <title>BIG DATA</title>
+    <link>http://2013.pythonbrasil.org.br/program/keynotes/big-data</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Giuseppe</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2014-06-27T13:50:03Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/django/boas-praticas-de-django">
+    <title>Boas práticas de Django</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/django/boas-praticas-de-django</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Filipe de Alencar Ximenes</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:41:12Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/django/campos-dinamicos-sem-nosql">
+    <title>Campos dinâmicos sem NoSQL</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/django/campos-dinamicos-sem-nosql</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>luan fonseca de farias</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:41:11Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pc/plone_cases/case-study-plone-and-the-uk-national-health-service">
+    <title>Case Study: Plone and the UK National Health Service</title>
+    <link>http://2013.pythonbrasil.org.br/program/pc/plone_cases/case-study-plone-and-the-uk-national-health-service</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Matt Hamilton</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:25:48Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/community_education/classic-games-with-python-in-the-browser">
+    <title>Classic Games with Python in the browser</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/community_education/classic-games-with-python-in-the-browser</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Fernando Masanori</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-27T17:59:30Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pc/plone_addons/collective-cover-one-year-later">
+    <title>Collective.cover one year later</title>
+    <link>http://2013.pythonbrasil.org.br/program/pc/plone_addons/collective-cover-one-year-later</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>André Nogueira</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T02:19:11Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pc/plone_gov/como-o-plone-domina-os-servicos-web-dos-correios-com-br-utilizando-diazo">
+    <title>Como o Plone domina os serviços Web dos Correios.com.br utilizando Diazo</title>
+    <link>http://2013.pythonbrasil.org.br/program/pc/plone_gov/como-o-plone-domina-os-servicos-web-dos-correios-com-br-utilizando-diazo</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Rodrigo Castardo</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T01:08:11Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/scipy/como-o-scielo-esta-se-preparando-para-disponibilizar-seus-metadados-para-pesquisadores-e-curiosos">
+    <title>Como o SciELO está se preparando para disponibilizar seus metadados para pesquisadores e curiosos.</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/scipy/como-o-scielo-esta-se-preparando-para-disponibilizar-seus-metadados-para-pesquisadores-e-curiosos</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Fabio Batalha Cunha dos Santos</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T05:18:02Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/python-core/compatibilidade-entre-python-2-e-3">
+    <title>Compatibilidade entre Python 2 e 3</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/python-core/compatibilidade-entre-python-2-e-3</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Danilo de Jesus da Silva Bellini</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-27T18:13:54Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://2013.pythonbrasil.org.br/program/pb/scipy/construassapso-de-uma-ferramenta-online-para-determinaassapso-de-linhas-de-influaancia">
+    <title>Construção de uma ferramenta online para determinação de linhas de influência</title>
+    <link>http://2013.pythonbrasil.org.br/program/pb/scipy/construassapso-de-uma-ferramenta-online-para-determinaassapso-de-linhas-de-influaancia</link>
+    <description></description>
+    
+    <dc:publisher></dc:publisher>
+    <dc:creator>Roberto Faga Junior</dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2013-08-20T05:18:02Z</dc:date>
+    <dc:type>Talk</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>
